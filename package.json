@@ -27,7 +27,8 @@
   "homepage": "https://github.com/vmpowerio/chartjs-node#readme",
   "dependencies": {
     "bluebird": "^3.4.6",
-    "canvas": "1.6.*",
+    "canvas": "^2.9.0",
+    "chart.js": "^2.7.3",
     "debug": "^2.2.0",
     "jsdom": "9.8.*",
     "stream-buffers": "^3.0.1"
